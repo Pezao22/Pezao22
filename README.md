@@ -11,28 +11,27 @@
 
 
 
-<div align="center">  
+<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pezao22&show_icons=true&count_private=true&hide_border=true&title_color=81FF59&icon_color=81FF59&text_color=c9d1d9&bg_color=0d1117" alt="Adrian riti github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pezao22&layout=compact&hide_border=true&title_color=81FF59&text_color=81FF59&bg_color=0d1117" />
 </div>
-
+<div align="center"> 
+    <a href="https://instagram.com/adrianriti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:adrianritidasilva1818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adrian-riti-831391236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+  
 ##
-
+  
 <div align="center" style="display: inline_block"><br>
+  <h3 align="left">Estudando e desenvolvendo minhas habilidades em:</h3>
     <img align="center" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Lua" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
     <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://68.media.tumblr.com/faa3e9d60c0c0e0d890dcb7131c204fd/tumblr_olpd7atLhz1s30ko5o1_500.gif">
-</div>
-
-##
-
-<div align="center"> 
-  <a href = "mailto:adrianritidasilva1818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adrian-riti-831391236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81FF59&height=120&section=footer"/>

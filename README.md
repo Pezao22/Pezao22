@@ -22,16 +22,25 @@
   
 </div>
   
-##
-  
-<div align="center" style="display: inline_block"><br>
-  <h3 align="left">Estudando e desenvolvendo minhas habilidades em:</h3>
-    <img align="center" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Lua" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
-    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://68.media.tumblr.com/faa3e9d60c0c0e0d890dcb7131c204fd/tumblr_olpd7atLhz1s30ko5o1_500.gif">
-</div>
+##  
 
+<div align="center" style="display: inline_block">
+  <h3 align="Center">Desenvolvendo Minhas Habilidades em:</h3><br>
+    <img align="center" hspace="5" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" hspace="5" alt="Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" hspace="5" alt="Lua" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
+    <img align="center" hspace="5" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" hspace="5" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ ##
+  
+<div align="center" style="display: inline_block">
+  <h3 align="Center">Vicios:</h3><br>
+  <img align="left" alt="pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/295908267/original.gif">
+  <img align="center" alt="pic" height="150" style="border-radius:50px;" src="https://lh6.googleusercontent.com/Btebmvwvg2xhiGdc1VPySpbTnGZwOSKhICW8llnNT3WYBhiziviwQzcX2ssr0UCgcx60qXMzXb4AV1yISh6rWzIQdoS7VvcAa55cZlQupznalLumtIJdHMdE-tD_kNieWabLUKadle1c4J2lEQV-No7vyyF4MnawqfQLUhLPOtJo6GzwufuVo-PBnJaZ5A">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://68.media.tumblr.com/faa3e9d60c0c0e0d890dcb7131c204fd/tumblr_olpd7atLhz1s30ko5o1_500.gif">
+  
+</div>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81FF59&height=120&section=footer"/>
